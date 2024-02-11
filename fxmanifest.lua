@@ -5,7 +5,11 @@ version '1.0.0'
 author 'reveldev on discord'
 description 'Made with a lot of love for QBCORE Community'
 
-server_scripts {'server.lua','config.lua'}
+shared_script {
+    'config.lua',
+}
+
+server_script {'server.lua'}
 
 files {
 	'*.css',
