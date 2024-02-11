@@ -18,7 +18,4 @@ Config.CleanCooldown = 600000 -- Put (in millsec) the cooldown to clean the chat
  * `/anon - Talk in anonymous mode (like black market)`
  * `/announce - Send a paid announce`
 
-*I hope you like it, my strong point is not frontend, I only have 1 year of amateur experience :S*
-*But I created the theme with the intention of helping the community above all and being able to show my skill :D*
-
 - REVEL
