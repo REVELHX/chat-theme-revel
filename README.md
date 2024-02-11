@@ -18,4 +18,6 @@ Config.CleanCooldown = 600000 -- Put (in millsec) the cooldown to clean the chat
  * `/anon - Talk in anonymous mode (like black market)`
  * `/announce - Send a paid announce`
 
+* Preview:
+https://www.youtube.com/watch?v=2hOa0P5tG0g
 - REVEL
